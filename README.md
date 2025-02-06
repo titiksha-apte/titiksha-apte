@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ### About Me
-- 💼 **Role:** Associate Software Engineer at Talespin ( A Cornerstone company)
+- 💼 **Role:** Software Engineer at Talespin ( A Cornerstone company)
 - 🌟 **New Journey:** I’ve recently moved to Talespin and am excited to explore new challenges and opportunities.
 
 ### Let's Connect
